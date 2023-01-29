@@ -1,16 +1,22 @@
-# mealstore
+# Flutter Meal Store App
 
-A new Flutter project.
+I have created Amazing Meal Store App Using Flutter.
 
-## Getting Started
+Key Features of this App are,
 
-This project is a starting point for a Flutter application.
+1. Fetching Data from Api. (Meal db)
+2. Using Google Bottom Nav Bar.
+   ~You can learn more from (https://github.com/ba064251/Flutter-App-Bottom-Navbar)
+3. Random Receipe Fetching.
+4. Fresh Modren UI Design.
+5. Automatic Swtiching of Dark/Light theme according to the system.
+6. Scrollable Description Section
+7. Using Grid View.
 
-A few resources to get you started if this is your first Flutter project:
+Dependencies Used in this project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. http
+2. Google Fonts.
+3. GNav
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have created multiple folders and seperate code for better performance and understanding. 
