@@ -4,7 +4,7 @@ I have created Amazing Meal Store App Using Flutter.
 
 Key Features of this App are,
 
-1. Fetching Data from Api. (Meal db)
+1. Fetching Data from Api. ~(www.themealdb.com/api/json/v1/1/search.php?s)
 2. Using Google Bottom Nav Bar.
    ~You can learn more from (https://github.com/ba064251/Flutter-App-Bottom-Navbar)
 3. Random Receipe Fetching.
@@ -15,8 +15,8 @@ Key Features of this App are,
 
 Dependencies Used in this project.
 
-1. http
-2. Google Fonts.
-3. GNav
+1. http ~(https://pub.dev/packages/http)
+2. Google Fonts. ~(https://pub.dev/packages/google_fonts)
+3. GNav. ~(https://pub.dev/packages/google_nav_bar/install)
 
 I have created multiple folders and seperate code for better performance and understanding. 
